@@ -1,2 +1,2 @@
 # video-compressor
-Besed GUI video compressor powered by ffmpeg
+Based GUI video compressor powered by ffmpeg
